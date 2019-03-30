@@ -13,4 +13,7 @@ public class Hello{
     public static void greeting(string name) {
         system.out.println("Welcome "+ name);
     }
+    public static sqr(int x) {
+        return x*x;
+    }
 }
