@@ -4,4 +4,5 @@ public class Hello{
        
     }
    public static void sqr(int x) {
+       return x*x;
 }
