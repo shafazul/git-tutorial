@@ -3,6 +3,6 @@ public class Hello{
         system.out.println("vs code Awesome");
        
     }
-   public static void sqr(int x) {
-       return x*x;
+   public static int  area(int x, int y, int z) {
+       return x*y*z;
 }
